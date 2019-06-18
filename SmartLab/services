@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+      <head>
+         <title>SmartLab|Services</title>
+		 <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet"><link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+    <body>
+	  <header>
+		 <nav>
+		     <div class="row clearfix">
+			     <img src="images/logo.jpg" class="logo"> 
+				 
+				 
+				 <ul class="main-nav animated slideInDown" id="check-class">
+			         <li><a href="#">Services</a></li>
+				     <li><a href="#">Products</a></li>
+				     <li><a href="#">Careers</a></li>
+			         <li><a href="#">Blogs</a></li>
+				     <li><a href="#">Contact Us</a></li>
+			     </ul>
+				 <a href="#" class="mobile-icon" onclick="slideshow()"><i class="fa fa-align-justify"></i> </a>
+			     
+			 </div>
+		 </nav>
+		 <div class="main-content-header">
+		 <h1 style="font-weight: bold;font-size: 320%;color: #8854d0">The Next<span class="colorchange"><br>
+		 Generation Lifestyle</span></h1>
+		 <a href="#" class="btn btn-full"> Contact Us</a>
+		 </div>
+	     
+	  </header>
+    </body>
+</html>
